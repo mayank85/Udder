@@ -21,9 +21,12 @@ class ViewController: UIViewController {
     }
     
     override func viewWillLayoutSubviews() {
-        <#code#>
+        
     }
 
+    override func viewDidDisappear(_ animated: Bool) {
+        <#code#>
+    }
 
 }
 
